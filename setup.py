@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="parse_unit",           # How the package is named in pip (e.g., pip install your_package_name)
+    name="unit",           # How the package is named in pip (e.g., pip install your_package_name)
     version="0.1.0",                    # Your current release version
     description="Parse and store commonly used units", 
     author="GW",
