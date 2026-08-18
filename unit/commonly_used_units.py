@@ -7,6 +7,8 @@ def deg():
   return create_unit_from_string('degree')
 def arcsec():
   return create_unit_from_string('arcsec')
+def arcmin():
+  return create_unit_from_string('arcmin')
 def steradian():
   return create_unit_from_string('steradian')
 
