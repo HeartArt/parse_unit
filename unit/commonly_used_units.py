@@ -28,7 +28,7 @@ def um():
 
 # frequency
 def GHz():
-  return reate_unit_from_string('GHz')
+  return create_unit_from_string('GHz')
 def Hz():
   return create_unit_from_string('Hz')
 
